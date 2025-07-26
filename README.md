@@ -27,3 +27,6 @@ That's it! You've just asked for your changes to be added to the main project. I
 
 The Awesome List of Learning Resources
 (Your contribution goes here!)
+
+JAY HIND 
+
